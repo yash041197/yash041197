@@ -28,7 +28,7 @@
 
 - 📧 yashpandya0411@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/yash-pandya-data)  
-- 🌐 [Portfolio Website](#) – *(Coming soon!)*
+- 🌐 [Portfolio Website](https://www.yashdataquestguru.com/) 
 
 ---
 
