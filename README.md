@@ -56,24 +56,16 @@ Here you'll find repositories showcasing my work in various data science, machin
 
 ---
 
-## 🤝 Let's Connect
+
+## 📫 Let’s Connect
 
 I'm always eager to collaborate on exciting data challenges, discuss new opportunities, or simply chat about the latest in AI and data science. Feel free to reach out!
-
-* **Website:** [www.yashdataquestguru.com](https://www.yashdataquestguru.com)
-* **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/your-linkedin-profile)
-* **Email:** [Your Professional Email Address](mailto:your.email@example.com)
-
----
-
-_"Data is the new oil. It’s not about how much you have, but how you refine it."_ - **Yash** (or a relevant quote you prefer)
-
----
-## 📫 Let’s Connect
 
 - 📧 yashpandya0411@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/yash-pandya-data)  
 - 🌐 [Portfolio Website](https://www.yashdataquestguru.com/) 
+
+_"Data is the new oil. It’s not about how much you have, but how you refine it."_ - **Yash** (or a relevant quote you prefer)
 
 ---
 
